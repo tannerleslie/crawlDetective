@@ -1,0 +1,13 @@
+.DS_STORE
+.gradle
+build
+
+# IntelliJ IDEA
+**/*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+target/
